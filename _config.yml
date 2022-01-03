@@ -26,8 +26,8 @@ kramdown:
   auto_ids: true
 highlighter: pygments
 
-organization_name: Your Organization Name
-title: Your Site Title
+organization_name: SENSE Lab
+title: SENSE Lab at ASU SESE
 
 exclude: [vendor]
 
