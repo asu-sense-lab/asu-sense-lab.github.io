@@ -1,5 +1,7 @@
 _site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+
+/assets/bootstrap/grunt
+/assets/bootstrap/less
+/assets/jquery/src
+
+yarn-error.log
