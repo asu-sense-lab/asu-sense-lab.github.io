@@ -32,9 +32,9 @@ title: SENSE Lab at ASU SESE
 exclude: [vendor]
 
 menu:
-  - name: Test1
-    link: test1
-  - name: Test2
-    link: test2
+  - name: Current Projects
+    link: projects
+  - name: People
+    link: people
 
 tags: a,b,c,d
