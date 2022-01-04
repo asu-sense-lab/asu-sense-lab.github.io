@@ -1,7 +1,6 @@
 ---
-title: 2021 06/10 - SPHEREx Survey Passes Pre-CDR
-categories: news, programs
-tags: things, others
+title: June 10, 2021 - SPHEREx Survey Passes Pre-CDR
+tags: News
 ---
 SPHEREx Survey Passes Pre-CDR
 =================
